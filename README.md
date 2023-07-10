@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <img align="center" width="200" border-radius="100" src="yo 1.png" />
-   <h3 align="center">Hi there 👋,  I'm Okeke 👨🏽‍💻</h3>
+   <h3 align="center">Hi there 👋,  I'm Emmanuel Okeke 👨🏽‍💻</h3>
 </p>
 
 <p align="center"> I'm a <strong>Frontend Engineer | UI/UX Designer </strong><br /> I specialize in React, Next.js, Typescript and Chakra UI </p>
