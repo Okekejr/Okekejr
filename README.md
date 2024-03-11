@@ -3,7 +3,21 @@
    <h3 align="center">Hi there 👋,  I'm Emmanuel Okeke 👨🏽‍💻</h3>
 </p>
 
-<p align="center"> I'm a <strong>Frontend Engineer | UI/UX Designer </strong><br /> I specialize in React, Next.js, Typescript and Chakra UI </p>
+<p align="center"> I'm a <strong>Frontend Engineer | UI/UX Designer </strong> </p>
+
+## 📦 Toolbox
+
+**Frontend Development:** `React` `Next.js` `TypeScript` `Chakra UI` `Material-UI` `Framer-Motion` `Redux` 
+ 
+**Backend Development:** `Node.js` `GraphQL` `Express` `RESTful API` 
+
+**Testing:** `Jest` `Postman` `React testing library`
+
+**Others:** `Zustand` `Wagmi` `Postgres` `SQL` `Vercel` `Web3` 
+
+## 📫 Contact
+
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/emmanuel-okeke/). 
 
 <!--
 **Okekejr/Okekejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
