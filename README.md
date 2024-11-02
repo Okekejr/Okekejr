@@ -3,7 +3,7 @@
    <h3 align="center">Hi there 👋,  I'm Emmanuel Okeke 👨🏽‍💻</h3>
 </p>
 
-<p align="center"> I'm a <strong>Frontend Engineer | UI/UX Designer </strong> </p>
+<p align="center"> I'm a <strong>Software Engineer for mobile and web | UI/UX Designer | Fullstack Engineer </strong> </p>
 
 ## 📦 Toolbox
 
